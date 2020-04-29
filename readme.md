@@ -4,7 +4,8 @@
 
 It is a complete free online course by Wes Bos. I am new to this challenges, and planning to use this repo as a record. I will try to add some notes and extra functions. You can grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 
-More updates to come :D
+In the following list, my solutions will be "START" files and Wes Bos' suggested solutions are "FINISHED" files.
+All ticked Challenges are finished.
 
 # Contents/ To-do List:
 
